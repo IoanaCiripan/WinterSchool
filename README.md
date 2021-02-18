@@ -1,5 +1,4 @@
 # WinterSchool
-'''
 Date: 19/02/2021
 Welcome to the Github repository of Group 7 for the course: "Skills: SHSG Winter School". 
 Group 7 - Wanja Butz, Hauke Schnepel, Florian Langer, Noëmi Lorenz
@@ -15,5 +14,3 @@ Ultimately, it pushes two graphs and an edited version of the uploaded video bac
 It defines the user interface and the design of the web application.
 3) Technical report.docx = this file contains a clear and brief overview of the software product. 
 It outlines the technical details and main choices of the implementation.
-'''
-
