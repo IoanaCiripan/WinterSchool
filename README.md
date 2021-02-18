@@ -1,10 +1,10 @@
 # WinterSchool
-Date: 19/02/2021
+Date: 19/02/2021<br>
 Welcome to the Github repository of Group 7 for the course: "Skills: SHSG Winter School". <br>
-Group 7 - Wanja Butz, Hauke Schnepel, Florian Langer, Noëmi Lorenz
-Name of the project: Posture Awareness App
-Scope of the project: Evaluate sitting posture based on an uploaded video and show recommendations to improve the sitting posture.
-
+Group 7 - Wanja Butz, Hauke Schnepel, Florian Langer, Noëmi Lorenz<br>
+Name of the project: Posture Awareness App<br>
+Scope of the project: Evaluate sitting posture based on an uploaded video and show recommendations to improve the sitting posture.<br>
+<br>
 In this repository you may find the following files:
 1) Final_submission.ipynb = this file contains the python code which serves as backend for the web application. 
 It retrieves the uploaded video and evaluates it applying the OpenPose model. 
