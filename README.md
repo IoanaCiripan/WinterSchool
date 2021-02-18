@@ -1,6 +1,6 @@
 # WinterSchool
 Date: 19/02/2021
-Welcome to the Github repository of Group 7 for the course: "Skills: SHSG Winter School". 
+Welcome to the Github repository of Group 7 for the course: "Skills: SHSG Winter School". <br>
 Group 7 - Wanja Butz, Hauke Schnepel, Florian Langer, Noëmi Lorenz
 Name of the project: Posture Awareness App
 Scope of the project: Evaluate sitting posture based on an uploaded video and show recommendations to improve the sitting posture.
