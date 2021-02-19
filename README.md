@@ -6,7 +6,7 @@ Name of the project: Posture Awareness App<br>
 Scope of the project: Evaluate sitting posture based on an uploaded video and show recommendations to improve the sitting posture.<br>
 <br>
 In this repository you may find the following files:
-1) Final_submission.ipynb = this file contains the python code which serves as backend for the web application. 
+1) Final_Submission_G7.ipynb = this file contains the python code which serves as backend for the web application. 
 It retrieves the uploaded video and evaluates it applying the OpenPose model. 
 The evaluation consists of various mathematical operations and visualizations.
 Ultimately, it pushes two graphs and an edited version of the uploaded video back to the web application.
