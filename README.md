@@ -14,3 +14,5 @@ Ultimately, it pushes two graphs and an edited version of the uploaded video bac
 It defines the user interface and the design of the web application.
 3) Technical report.docx = this file contains a clear and brief overview of the software product. 
 It outlines the technical details and main choices of the implementation.
+4) Group7_User_Workflow.mp4 = this file shows an exemplary user workflow, in case the environment will face difficulties running without explicit setup. 
+We kindly thank for consideration by the professor, in such a scenario.
